@@ -1,0 +1,12 @@
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\QRCode.exe
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\QRCode.pdb
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\Spire.Barcode.dll
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\Spire.License.dll
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\Spire.Barcode.xml
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\bin\Debug\Spire.License.xml
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\QRCode-VS2013.csprojResolveAssemblyReference.cache
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\BarcodeLibUtilizationInWinForm.Form1.resources
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\QRCode.Properties.Resources.resources
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\QRCode-VS2013.csproj.GenerateResource.Cache
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\QRCode.exe
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeGeneration\Matri(2D)Barcodes\QRCode Code\obj\Debug\QRCode.pdb

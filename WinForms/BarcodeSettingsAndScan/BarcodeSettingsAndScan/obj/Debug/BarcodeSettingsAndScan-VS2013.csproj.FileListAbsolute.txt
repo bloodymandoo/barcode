@@ -1,0 +1,11 @@
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\BarcodeSettingsAndScan.exe
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\BarcodeSettingsAndScan.pdb
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\Spire.Barcode.dll
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\Spire.License.dll
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\Spire.Barcode.xml
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\bin\Debug\Spire.License.xml
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\obj\Debug\BarcodeLibUtilizationInWinForm.Form1.resources
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\obj\Debug\BarcodeSettingsAndScan.Properties.Resources.resources
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\obj\Debug\BarcodeSettingsAndScan-VS2013.csproj.GenerateResource.Cache
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\obj\Debug\BarcodeSettingsAndScan.exe
+D:\mygit\Barcode\install\Demos\CS\WinForms\BarcodeSettingsAndScan\BarcodeSettingsAndScan\obj\Debug\BarcodeSettingsAndScan.pdb
